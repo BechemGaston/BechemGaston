@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BechemGaston
-- 👀 I’m interested in Data Science/Analysis
-- 🌱 I’m currently learning Data Analysis
-- 💞️ I’m looking to collaborate on Data Analysis/Data Science Projects
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Full Stack Web Development
+- 💞️ I’m looking to collaborate on Web Dev Projects and more
 - 📫 How to reach me bechemgaston07@mail.com / www.linkedin.com/in/bechem
 
 
